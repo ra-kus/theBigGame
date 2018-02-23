@@ -1,7 +1,0 @@
-com\game\config\WebSocketConfiguration.class
-com\game\service\ChallengeService.class
-com\game\service\ChallengeServiceImpl.class
-com\game\rest\GameController.class
-com\game\RpslsGameApplication.class
-com\game\service\GameService.class
-com\game\service\GameServiceImpl.class

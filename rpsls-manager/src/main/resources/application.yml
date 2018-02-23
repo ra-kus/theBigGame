@@ -1,8 +1,0 @@
-################
-# Spring Common Config
-server.port: 11101
-
----
-spring:
-  profiles: local
-  profiles.active: local
